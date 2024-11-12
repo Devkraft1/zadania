@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731435340 source:c:\users\macie\zadania_cpp\zadania1\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+
